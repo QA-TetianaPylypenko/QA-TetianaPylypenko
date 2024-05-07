@@ -10,17 +10,23 @@ My technical knowledge extends to working with databases, SQL queries, API testi
 I am a very friendly and hardworking person, I don't stand still and keep up with the times, I am constantly developing and learning new things, I am always open to cooperation at any time! 🚀
 
 ## 👌 Skills
-* Testing theory
-* Understanding of SDLC / STLS processes
+* Knowledge of testing theory
 * Manual Web / Mobile testing
-* Experience in creating test documentation
+* Practical experience of SDLC processes
+* Practical experience of working in a team using the Agile 
+  methodology
+* Practical experience in creating test documentation
 * Functional and Non-functional testing
-* Test design techniques 
-* Experience with Jira, Testomatio, TestRail, Figma, Miro tools
+* Practical experience in testing using Test design techniques
+* Practical experience of API testing with Postman, DevTools
+* Practical experience of test automation using Playwright
+* Practical experience with Jira, Confluence, TestRail, 
+* Testomatio, , Figma tools
+* Working with Git and GitHub, GitLab
 * Working with databases and executing SQL queries
-* Basic knowledge of API, Postman, DevTools
-* Basic knowledge of HTML, CSS
-* Experience in UX/UI design
+* Basic knowledge of HTML, CSS, JavaScript
+* Practical experience in UX/UI design, research, competitor 
+  analysis, creation of mockups and clickable prototypes, etc
 
 ## 🚀 Contacts
 
